@@ -1,2 +1,2 @@
 # Netflixx
-Netflix  Django with sign in, log in, profile and watch history features.
+Netflix  Django and Tailwind CSS, with sign in, log in, profile and watch history features.
